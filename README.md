@@ -2,4 +2,4 @@
 
 Common lisp examples
 
-[Tutorial : art2.ph-freiburg.de](http://art2.ph-freiburg.de/Lisp-Cours)
+[Tutorial : art2.ph-freiburg.de](http://art2.ph-freiburg.de/Lisp-Course)
